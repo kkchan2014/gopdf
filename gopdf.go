@@ -18,7 +18,7 @@ import (
 
 	"errors"
 
-	"github.com/phpdave11/gofpdi"
+	"github.com/kkchan2014/gofpdi"
 )
 
 const subsetFont = "SubsetFont"
