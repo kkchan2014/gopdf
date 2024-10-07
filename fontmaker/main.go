@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/signintech/gopdf/fontmaker/core"
+	"github.com/kkchan2014/gopdf/fontmaker/core"
 	//"runtime/debug"
 )
 
